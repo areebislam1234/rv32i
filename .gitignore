@@ -14,3 +14,4 @@ sim4
 # synthesis / pnr output
 *.json
 *.fs
+dv2
