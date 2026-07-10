@@ -1,0 +1,16 @@
+# compiled simulators
+d2
+d3
+d5
+e2
+e3
+e5
+tu
+tuu
+sim
+sim2
+sim3
+sim4
+# synthesis / pnr output
+*.json
+*.fs
