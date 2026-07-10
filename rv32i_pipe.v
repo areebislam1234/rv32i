@@ -1,7 +1,7 @@
 `default_nettype none
 // 5-stage pipeline: IF -> ID -> EX -> MEM -> WB
 // Same port list as rv32i_core.v -- drop-in replacement.
-module rv32i_pipe (
+module rv32i_pipe_v1 (
     input  wire        clk,
     input  wire        rst_n,
     output wire [31:0] imem_addr,
